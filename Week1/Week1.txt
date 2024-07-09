@@ -1,0 +1,5 @@
+Week 1 covered:
+  Introduction to Python and its applications
+  Installing and setting up the Python environment
+  Learn basic syntax, Input/Output Operations and variables
+  Writing your first program.
