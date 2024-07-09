@@ -1,0 +1,5 @@
+Week 2 Covered:
+  Differentiate between the different data types
+  Understand concepts like dynamic typing and Type Casting 
+  Use the different operators to perform operations
+  Learn about Complex data Types such as Lists, Dictionaries and tuples
